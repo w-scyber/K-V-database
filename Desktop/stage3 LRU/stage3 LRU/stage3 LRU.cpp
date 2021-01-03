@@ -30,7 +30,7 @@ int main()
 	createIndex(&handler);   //建立index索引
 	createTime(&ttime);    //建立储存key过期时间的索引
 
-	if (file_size(file.c_str()) > 1) {
+	if (file_size(file.c_str()) > 10000) {
 		//文件大小超过指定值后进行purge操作
 		purge(file);
 		index.clear();
