@@ -1,0 +1,14 @@
+﻿  KVDBHandler.cpp
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\KVDBHandler.h(2,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  logger.cpp
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\KVDBHandler.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\logger.h(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  LRUCache.cpp
+  stage3 LRU.cpp
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\logger.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\KVDBHandler.h(2,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\stage3 LRU.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\stage3 LRU.cpp(20,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+C:\Users\wws\Desktop\stage3 LRU\stage3 LRU\stage3 LRU.cpp(124,15): warning C4244: “+=”: 从“time_t”转换到“int”，可能丢失数据
+  stage3 LRU.vcxproj -> C:\Users\wws\Desktop\stage3 LRU\Debug\stage3 LRU.exe
